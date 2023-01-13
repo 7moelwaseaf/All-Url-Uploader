@@ -36,7 +36,7 @@ class Config(object):
     ADL_BOT_RQ = {}
     CHUNK_SIZE = 128
     TG_MAX_FILE_SIZE = 419994304000
-    HTTP_PROXY = ""
+    HTTP_PROXY = "80"
     PROCESS_MAX_TIMEOUT = 3700
 
     # TG Ids
